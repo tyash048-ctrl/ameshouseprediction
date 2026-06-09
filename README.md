@@ -3,7 +3,7 @@
 A machine learning web application that predicts residential home prices in Ames, Iowa, using advanced regression techniques.
 
 ## Live Demo
-[View the Live App here]
+[View the Live App here](https://tyash048-ctrl-ameshouseprediction-app-d8ztvx.streamlit.app/)
 
 ## Project Overview
 This project involves a comprehensive data science pipeline—from raw data cleaning to deploying a trained model. 
