@@ -3,7 +3,7 @@
 A machine learning web application that predicts residential home prices in Ames, Iowa, using advanced regression techniques.
 
 ## Live Demo
-[View the Live App here](https://ameshousingpriceprediction-db74nykfyapphw5z3kmpqjt.streamlit.app/)
+[View the Live App here]
 
 ## Project Overview
 This project involves a comprehensive data science pipeline—from raw data cleaning to deploying a trained model. 
@@ -28,10 +28,6 @@ The goal was to predict the SalePrice of houses based on features like living ar
 * Cloud: Streamlit Community Cloud
 * Version Control: Git/GitHub
 
-## 💻 Local Setup
-1. Clone the repo:   git clone https://github.com/aarav11b16123-png/ames_housing_price_prediction.git
-2. Install dependencies:    pip install -r requirements.txt
-3. Run the app:    streamlit run app.py
 
 ## 🧰 Tech Stack
 * Python (Pandas, Numpy, Scikit-Learn)
